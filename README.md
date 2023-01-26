@@ -1,1 +1,2 @@
-# graphTheoryDamienMcDonaghg00386999
+# Graph Theory
+# DamienMcDonagh g00386999
